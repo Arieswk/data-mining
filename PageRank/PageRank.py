@@ -71,7 +71,7 @@ nx.set_node_attributes(graph,name='pagerank',values=pagerank)
 show_graph(graph)
 
 #将完整的图谱进行精简
-#设置PR值的阈值，筛选大鱼阈值的重要核心节点
+#设置PR值的阈值，筛选大于阈值的重要核心节点
 pagerank_threshold = 0.005
 #复制一份计算好的网络图
 small_graph = graph.copy()
