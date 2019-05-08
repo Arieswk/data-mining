@@ -1,10 +1,13 @@
 # 九种数据挖掘算法
-1.决策树  
-2.朴素贝叶斯分类  
-3.SVM  
-4.KNN  
-5.K-Means  
-6.EM聚类  
-7.关联规则挖掘  
-8.[PageRank](https://github.com/Arieswk/data-mining/tree/master/PageRank)：     [挖掘希拉里邮件中的重要任务关系](https://github.com/Arieswk/data-mining/blob/master/PageRank/PageRank.py)  
-9.AdaBoost  
+##### 1.决策树  
+##### 2.朴素贝叶斯分类  
+##### 3.SVM  
+##### 4.KNN  
+##### 5.K-Means  
+##### 6.EM聚类  
+##### 7.关联规则挖掘  
+##### 8.[PageRank](https://github.com/Arieswk/data-mining/tree/master/PageRank)：
+* [PageRank挖掘希拉里邮件中的重要任务关系](https://github.com/Arieswk/data-mining/blob/master/PageRank/PageRank.py)  
+##### 9.[AdaBoost](https://github.com/Arieswk/data-mining/tree/master/AdaBoost)：
+* [AdaBoost对房价进行预测（回归），并与决策树和KNN进行比较均方误差（MSE）](https://github.com/Arieswk/data-mining/blob/master/AdaBoost/AB01.py)
+* [AdaBoost与决策树模型的比较（分类）](https://github.com/Arieswk/data-mining/blob/master/AdaBoost/AB02.py)  
