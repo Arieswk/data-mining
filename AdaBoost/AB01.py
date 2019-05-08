@@ -1,4 +1,4 @@
-#用AdaBoost对房价进行预测，并与决策树和KNN进行比较（回归）
+#用AdaBoost对房价进行预测（回归），并与决策树和KNN进行比较均方误差（MSE）
 from sklearn.metrics import mean_squared_error
 from sklearn.ensemble import AdaBoostRegressor
 from sklearn.model_selection import train_test_split
