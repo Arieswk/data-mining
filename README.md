@@ -1,5 +1,8 @@
 # 九种数据挖掘算法
-##### 1.决策树  
+##### 1.[决策树]:
+* [CART分类](https://github.com/Arieswk/data-mining/blob/master/%E5%86%B3%E7%AD%96%E6%A0%91/CART%E5%88%86%E7%B1%BB.py)  
+* [CART回归](https://github.com/Arieswk/data-mining/blob/master/%E5%86%B3%E7%AD%96%E6%A0%91/CART%E5%9B%9E%E5%BD%92.py)  
+* [CART_手写数字分类](https://github.com/Arieswk/data-mining/blob/master/%E5%86%B3%E7%AD%96%E6%A0%91/CART_%E6%89%8B%E5%86%99%E6%95%B0%E5%AD%97%E5%88%86%E7%B1%BB.py)  
 ##### 2.朴素贝叶斯分类  
 ##### 3.SVM  
 ##### 4.KNN  
