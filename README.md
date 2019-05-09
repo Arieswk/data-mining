@@ -8,7 +8,7 @@
 ##### [3.SVM:](https://github.com/Arieswk/data-mining/tree/master/SVM)  
 * [svm](https://github.com/Arieswk/data-mining/blob/master/SVM/svm.py)
 ##### [4.KNN:](https://github.com/Arieswk/data-mining/tree/master/KNN)
-* [先探索数据，分别使用KNN,SVM,多项式朴素贝叶斯以及CART决策树对手写数字进行分类，并比较四种算法的准确率(accuracy)](https://github.com/Arieswk/data-mining/blob/master/KNN/knn.py) 
+* [先探索数据，再分别使用KNN,SVM,多项式朴素贝叶斯以及CART决策树对手写数字进行分类，并比较四种算法的准确率(accuracy)](https://github.com/Arieswk/data-mining/blob/master/KNN/knn.py) 
 ##### [5.K-Means:](https://github.com/Arieswk/data-mining/tree/master/K_Means)  
 * [km](https://github.com/Arieswk/data-mining/blob/master/K_Means/kmeans.py)
 ##### [6.EM聚类:](https://github.com/Arieswk/data-mining/tree/master/EM_cluster)  
