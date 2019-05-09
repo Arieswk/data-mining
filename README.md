@@ -13,7 +13,7 @@
 * [km](https://github.com/Arieswk/data-mining/blob/master/K_Means/kmeans.py)
 ##### [6.EM聚类:](https://github.com/Arieswk/data-mining/tree/master/EM_cluster)  
 * [em](https://github.com/Arieswk/data-mining/blob/master/EM_cluster/em.py)
-##### [7.关联规则挖掘:](https://github.com/Arieswk/data-mining/tree/master/%E5%85%B3%E8%81%94%E8%A7%84%E5%88%99%E6%8C%96%E6%8E%98):  
+##### [7.关联规则挖掘:](https://github.com/Arieswk/data-mining/tree/master/%E5%85%B3%E8%81%94%E8%A7%84%E5%88%99%E6%8C%96%E6%8E%98)  
 * [Apriori_demo](https://github.com/Arieswk/data-mining/blob/master/%E5%85%B3%E8%81%94%E8%A7%84%E5%88%99%E6%8C%96%E6%8E%98/Apriori_demo.py)
 ##### [8.PageRank:](https://github.com/Arieswk/data-mining/tree/master/PageRank)
 * [PageRank挖掘希拉里邮件中的重要任务关系](https://github.com/Arieswk/data-mining/blob/master/PageRank/PageRank.py)  
